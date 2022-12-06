@@ -1,3 +1,3 @@
 # Temzee Datasets
 
-Datasets for use in ![Temzee.com](temzee.com) coding exercises
+Datasets for use in ![Temzee.com](http://temzee.com) coding exercises
